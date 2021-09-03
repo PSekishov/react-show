@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Pavel Sekishov
+         Pavel Sekishov Test React
         </a>
       </header>
     </div>
